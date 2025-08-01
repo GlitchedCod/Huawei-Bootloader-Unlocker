@@ -4,7 +4,7 @@ This tool let you unlock the bootloader of your Huawei / Honor Device even if th
 After closing the official EMUI website, which allowed to retrieve the code to unlock the bootloader of Huawei/Honor phones, here's the fastest free way to retrieve it by yourself.
 
 
-### How To use it
+### How To use itt
 1. Compile the .C file
     1. `gcc source.c -o exec`
     2. `chmod +x exec`
